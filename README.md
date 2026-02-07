@@ -9,11 +9,6 @@ Built with:
 - Framer Motion (animations)
 - Lucide React (icons)
 
-## Live Demo
-
-https://hashxpert-website.vercel.app  
-(or your Vercel/Netlify URL after deployment)
-
 ## Features
 
 - Responsive design (mobile-first)
@@ -34,7 +29,7 @@ https://hashxpert-website.vercel.app
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR-USERNAME/hashxpert-website.git
+git clone https://github.com/ThusharHashXpert/hashxpert-website.git
 cd hashxpert-website
 
 # Install dependencies
